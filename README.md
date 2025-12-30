@@ -1,4 +1,7 @@
-## Hi there 👋
+
+# Hi, I'm Shruti Sonawane 👋
+## MERN Stack | Full Stack Developer | MCA Student
+
 # 💫 About Me:
 🔭 I’m currently working on building scalable web applications using the MERN stack.<br><br>👯 I’m looking to collaborate on innovative Frontend React projects.<br><br>🤝 I’m looking for help with mastering advanced React hooks and state management.<br><br>🌱 I’m currently learning advanced React concepts and complex backend architecture.<br><br>💬 Ask me about React, Node.js, and building responsive user interfaces.<br><br>⚡ Fun fact I love the challenge of turning complex logic into simple, beautiful code!
 
