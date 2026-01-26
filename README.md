@@ -13,7 +13,7 @@
 | Feature | Details |
 | :--- | :--- |
 | 🔭 **Working on** | Building scalable web applications using the MERN stack. asskjtvjoeekockwqokcoke|
-| 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to. |
+| 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to.dtutuuuy09olokjccvb jbjy ih  |
 | 🤝 **Help needed** | Mastering advanced React hooks and complex state management. |
 | 🌱 **Learning** | Advanced React patterns and complex backend system design. |
 | 💬 **Talk to me** | React, Node.js, and creating user-friendly UI/UX. |
