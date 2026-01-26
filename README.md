@@ -12,7 +12,7 @@
 # 💫 About Me:
 | Feature | Details |
 | :--- | :--- |
-| 🔭 **Working on** | Building scalable web applications using the MERN stack. asskjtvjoeekockwqokcoke|
+| 🔭 **Working on** | Building scalable web applications using the MERN stack.|
 | 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to.dtutuuuy09olokjccvb jbjy ih  |
 | 🤝 **Help needed** | Mastering advanced React hooks and complex state management. |
 | 🌱 **Learning** | Advanced React patterns and complex backend system design. |
