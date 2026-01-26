@@ -16,7 +16,7 @@
 | 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to. |
 | 🤝 **Help needed** | Mastering advanced React hooks and complex state management. |
 | 🌱 **Learning** | Advanced React patterns and complex backend system design. |
-| 💬 **Talk to me** | React, Node.js, and creating user-friendly UI/UX. iegi4g0e0fo0wvtb4ii0w0q0chgmkevt  |
+| 💬 **Talk to me** | React, Node.js, and creating user-friendly UI/UX. |
 
 ---
 
