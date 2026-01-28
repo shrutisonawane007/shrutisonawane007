@@ -4,7 +4,7 @@
 ---
 
 # 🎓 Education
-- **Master of Computer Applications (MCA)** - ASM Group of Institutes
+- **Master of Computer Applications (MCA)** - ASM Group of Institutes  btibirrv tobiei tobeov0wo0 toin0e oefebtibirrv tobiei tobeov0wo0 toin0e oefe
 - **Focus:** Full Stack Development, Data Structures, and Cloud Computing
 
 ---
