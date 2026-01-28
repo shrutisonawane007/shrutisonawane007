@@ -5,7 +5,7 @@
 
 # 🎓 Education
 - **Master of Computer Applications (MCA)** - ASM Group of Institutes  
-- **Focus:** Full Stack Development, Data Structures, and Cloud Computing
+- **Focus:** Full Stack Development, Data Structures
 
 ---
 
