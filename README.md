@@ -4,8 +4,8 @@
 ---
 
 # 🎓 Education
-- **Master of Computer Applications (MCA)** - ASM Group of Institutes  
-- **Focus:** Full Stack Development, Data Structures and MERN Stack Development
+- **Master of Computer Applications (MCA)** - ASM Group of Institutes   gmtgjejjfnd tkfjdnw tkjve tfe3ij rbrjei tbjejdj ijvve
+- **Focus:** Full Stack Development, Data Structures and MERN Stack Development  jrivithjibtrif ygkr 
 
 ---
 
