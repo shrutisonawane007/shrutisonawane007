@@ -12,9 +12,9 @@
 # 💫 About Me:
 | Feature | Details |
 | :--- | :--- |
-| 🔭 **Working on** | Building scalable web applications using the MERN stack.|
-| 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to.|
-| 🤝 **Help needed** | Mastering advanced React hooks and complex state management. |
+| 🔭 **Working on** | Building scalable web applications using the MERN stack.| iuydfcgvhbnjkoiuytfc mjuyv nhgv jhfdc miygv mkiuv mkuytc mhg mkiuytfv mnbv nbvdrtyh mjhb mjhgv mkjugv mjhb 
+| 👯 **Collaborating** | Seeking innovative Frontend React projects to contribute to.| 9ytv mhb mgv mj kuh jgv jhb jhb jb lkjhgfdcvb lugv  xdfgh vghjk, vfyjm    bjk,mjhgv jv kb kgv miugv  vj vh vgjm vfn
+| 🤝 **Help needed** | Mastering advanced React hooks and complex state management.  vn vgh vv v v vh bgh bhn vh v vn vghn vghn vghn vg vn bghn vghn|
 | 🌱 **Learning** | Advanced React patterns and complex backend system design. |
 | 💬 **Talk to me** | React, Node.js, and creating user-friendly UI/UX. |
 
