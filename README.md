@@ -6,7 +6,7 @@
 # 🎓 Education
 - **Master of Computer Applications (MCA)** - ASM Group of Institutes   
 - **Focus:** Full Stack Development, Data Structures and MERN Stack Development  
-
+Data Structures and MERN Stack Development  Data Structures and MERN Stack Development  Data Structures and MERN Stack Development  Data Structures and MERN Stack Development  Data Structures and MERN Stack Development  
 ---
 
 # 💫 About Me:
