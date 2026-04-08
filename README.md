@@ -1,5 +1,5 @@
 # Hi, I'm Shruti Sonawane 👋
-### MCA Student | MERN Stack Developer | Full Stack Enthusiast   jjribr we are making th =e most beautyful erps      
+### MCA Student | MERN Stack Developer | Full Stack Enthusiast    
 
 ---
 
