@@ -1,6 +1,37 @@
 # Hi there, I'm Shruti Sonawane! 👋
 I am a passionate **Full Stack Web Developer** focused on building interactive, high-performance, and responsive web applications. I love working with JavaScript/TypeScript, local-first architectures, cloud database scaling, and integrating smart AI capabilities to build premium user experiences.
 ---
+## 🚀 Key Projects
+### 📄 1. [SyncDoc — Local-First Collaborative Document Editor](https://github.com/shrutisonawane007/SyncDoc)
+*A Google Docs alternative featuring secure, real-time collaboration and offline capabilities.*
+* **Conflict Resolution**: Implemented custom CRDT logic and Lamport Clocks for conflict-free typing sync.
+* **Security & Permissions**: Leveraged PostgreSQL Row-Level Security (RLS) to enforce document access rules.
+* **Offline-First**: Built local browser data caching with IndexedDB (Dexie.js) to enable editing with no internet.
+* **AI Assist**: Powered by Google Gemini API to autocomplete text, summarize drafts, and chat with files.
+* **Responsive Styling**: Optimized page layouts and bottom navigation for perfect mobile, tablet, and desktop viewing.
+  
+### 🌍 2. [Wanderlust — Travel & Stay Marketplace](https://github.com/shrutisonawane007/wanderlust)
+*A comprehensive travel listing and reservation web application inspired by Airbnb.*
+* **Full CRUD & MVC**: Engineered using Node.js and Express.js adhering to the Model-View-Controller design pattern.
+* **Database & Cloud Storage**: Integrated MongoDB Atlas for secure data scaling, and Cloudinary for high-performance cloud image hosting.
+* **Interactive Maps**: Leveraged Mapbox API for geocoding address strings into coordinates and rendering interactive search markers.
+* **Auth & Security**: Handled secure user sessions, signup, and login flows using Passport.js.
+
+### 📝 3. [NoteNova — MERN Notes Management App](https://github.com/shrutisonawane007/notenova)
+*A modern, minimal full-stack notes organizer designed for clean day-to-day productivity.*
+* **Security**: Implemented JWT (JSON Web Tokens) authentication and bcrypt hashing for secure user logins.
+* **REST API**: Built a modular REST API in Express.js supporting complete CRUD operations.
+* **Modern UI**: Designed a responsive user interface using React.js, Tailwind CSS, and Vite.
+---
+## 🛠️ Tech Stack & Skills
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend UI** | React.js, HTML5, CSS3, EJS, Bootstrap 5, Tailwind CSS, JavaScript (ES6+), TypeScript |
+| **Backend & APIs** | Node.js, Express.js, Passport.js, JWT, RESTful API Development, MVC Architecture |
+| **Databases & Cache** | MongoDB Atlas, Mongoose, PostgreSQL, IndexedDB (Dexie.js) |
+| **Services & Tools** | Git, GitHub, Vercel, Cloudinary, Mapbox API, Google Gemini API, Postman |
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sonawane-231550388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonawaneshruti910@gmail.com) 
 
